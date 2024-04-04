@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|d:\\fabio\\documents\\projetos pessoais\\alura-curso-net-persistindo-dados-com-entity-framework\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|d:\\fabio\\documents\\projetos pessoais\\alura-curso-net-persistindo-dados-com-entity-framework\\screensound\\banco\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
+              "ToolTip": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Program.cs",
+              "RelativeToolTip": "ScreenSound\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:30:05.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Banco\\Connection.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Banco\\Connection.cs",
+              "ToolTip": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Banco\\Connection.cs",
+              "RelativeToolTip": "ScreenSound\\Banco\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:49:40.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

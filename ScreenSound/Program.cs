@@ -1,5 +1,22 @@
-﻿using ScreenSound.Menus;
+﻿using ScreenSound.Banco;
+using ScreenSound.Menus;
 using ScreenSound.Modelos;
+
+
+try
+{
+    using var connection = new Connection().ObterConexao();
+    connection.Open();
+    Console.WriteLine(connection.State);
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
+
+Console.ReadKey();
+
+return;
 
 Artista ira = new Artista("Ira!", "Banda Ira!");
 Artista beatles = new("The Beatles", "Banda The Beatles");
@@ -31,6 +48,8 @@ void ExibirLogo()
 
 void ExibirOpcoesDoMenu()
 {
+
+
     ExibirLogo();
     Console.WriteLine("\nDigite 1 para registrar um artista");
     Console.WriteLine("Digite 2 para registrar a música de um artista");
