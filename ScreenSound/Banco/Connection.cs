@@ -1,4 +1,5 @@
 ﻿using Microsoft.Data.SqlClient;
+using ScreenSound.Modelos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,4 +15,5 @@ internal class Connection
     {
         return new SqlConnection(connectionString);
     }
+ 
 }

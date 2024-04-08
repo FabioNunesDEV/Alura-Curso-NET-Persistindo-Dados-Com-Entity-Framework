@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|d:\\fabio\\documents\\projetos pessoais\\alura-curso-net-persistindo-dados-com-entity-framework\\screensound\\banco\\artistadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\artistadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|d:\\fabio\\documents\\projetos pessoais\\alura-curso-net-persistindo-dados-com-entity-framework\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArtistaDAL.cs",
+              "DocumentMoniker": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Banco\\ArtistaDAL.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Banco\\ArtistaDAL.cs",
+              "ToolTip": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Banco\\ArtistaDAL.cs",
+              "RelativeToolTip": "ScreenSound\\Banco\\ArtistaDAL.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAADwv1IAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T00:03:24.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAkAAACQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T23:30:05.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Connection.cs",
               "DocumentMoniker": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Banco\\Connection.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Banco\\Connection.cs",
