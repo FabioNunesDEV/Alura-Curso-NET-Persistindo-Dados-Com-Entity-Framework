@@ -60,3 +60,16 @@ D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entit
 D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
 D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\obj\Debug\net6.0\ScreenSo.4E60E543.Up2Date
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
