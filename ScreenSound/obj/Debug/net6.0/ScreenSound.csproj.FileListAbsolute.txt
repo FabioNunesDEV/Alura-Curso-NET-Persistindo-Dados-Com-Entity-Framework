@@ -73,3 +73,11 @@ D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entit
 D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Humanizer.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\System.CodeDom.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\System.Text.Json.dll
+D:\fabio\Documents\Projetos PESSOAIS\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\ScreenSound\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
