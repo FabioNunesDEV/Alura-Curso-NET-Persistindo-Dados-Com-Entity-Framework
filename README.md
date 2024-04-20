@@ -14,5 +14,5 @@ Conteúdo do curso
 
 Certificado de conclusão<br>
 
-<img align="center" alt="Dev-HTML" height="500em" src="https://github.com/FabioNunesDEV/Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework/blob/main/Certificado/CertificadoAlura04.png">
+<img align="center" alt="Dev-HTML" height="500em" src="https://github.com/FabioNunesDEV/Certificados/blob/main/F%C3%A1bio%20Vicente%20Nunes%20-%20Curso%20.NET_%20persistindo%20dados%20com%20Entity%20Framework%20Core%20-%20Alura.png">
 
