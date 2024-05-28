@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|d:\\fabio\\documents\\projetos pessoais\\alura-curso-net-persistindo-dados-com-entity-framework\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|d:\\fabio\\documents\\projetos pessoais\\alura-curso-net-persistindo-dados-com-entity-framework\\screensound\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|d:\\fabio\\documents\\projetos pessoais\\alura-curso-net-persistindo-dados-com-entity-framework\\screensound\\menus\\menumostramusicasporano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menumostramusicasporano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|d:\\fabio\\documents\\projetos pessoais\\alura-curso-net-persistindo-dados-com-entity-framework\\screensound\\modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,48 +28,9 @@
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwCcAAABSAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCcAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T17:44:52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuMostraMusicasPorAno.cs",
-              "DocumentMoniker": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Menus\\MenuMostraMusicasPorAno.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuMostraMusicasPorAno.cs",
-              "ToolTip": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Menus\\MenuMostraMusicasPorAno.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuMostraMusicasPorAno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T17:43:41.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DAL.cs",
-              "DocumentMoniker": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Banco\\DAL.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Banco\\DAL.cs",
-              "ToolTip": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Banco\\DAL.cs",
-              "RelativeToolTip": "ScreenSound\\Banco\\DAL.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAkwCoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T17:40:55.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Artista.cs",
-              "DocumentMoniker": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Modelos\\Artista.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Artista.cs",
-              "ToolTip": "D:\\fabio\\Documents\\Projetos PESSOAIS\\Alura-Curso-NET-Persistindo-Dados-Com-Entity-Framework\\ScreenSound\\Modelos\\Artista.cs",
-              "RelativeToolTip": "ScreenSound\\Modelos\\Artista.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAowBwAAABkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T17:33:59.702Z",
               "EditorCaption": ""
             }
           ]
